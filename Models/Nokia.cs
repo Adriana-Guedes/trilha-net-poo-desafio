@@ -4,11 +4,11 @@ namespace DesafioPOO.Models
     public class Nokia : Smartphone
     {
         
-   // O construtor da classe Nokia herdado da classe smartphone
+   
 
     public Nokia(string numero, string modelo, string imei, int memoria) : base(numero, modelo, imei, memoria)
     {
-        // O corpo do construtor está vazio
+        
     }
 
         

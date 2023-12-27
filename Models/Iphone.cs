@@ -6,10 +6,10 @@ namespace DesafioPOO.Models
         // TODO: Sobrescrever o método "InstalarAplicativo"
           
           
-          // O construtor da classe Iphone chama o construtor da classe base (Smartphone) usando a palavra-chave 'base'.
+        
       public Iphone(string numero, string modelo, string imei, int memoria) : base(numero, modelo, imei, memoria)
         {
-            // O corpo do construtor está vazio, pois não há necessidade de realizar operações adicionais neste momento.
+            
         }
 
          // Override do método InstalarAplicativo da classe base (Smartphone).
